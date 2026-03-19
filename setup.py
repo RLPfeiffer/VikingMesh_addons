@@ -19,11 +19,11 @@ if __name__=='main':
     classifiers = ['Programming Language :: Python :: 3.7',
                    'Topic :: Scientific/Engineering']
 
-    setup(name = 'morphrender_addons',
+    setup(name = 'vikingmesh_addons',
         version = '1.0',
         description= "MeshLab filters for dae files",
         author =' Rebecca Pfeiffer',
         author_email= "r.pfeiffer@utah.edu",
-        url = 'https://github.com/RLPfeiffer/MorphrenderAddOns',
+        url = 'https://github.com/RLPfeiffer/VikingMesh_addons',
         install_requires=install_requires,
         packages=packages)
